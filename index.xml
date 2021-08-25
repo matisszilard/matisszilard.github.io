@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matis.szilard</title>
@@ -17,10 +17,9 @@
       
       <guid>https://matisszilard.github.io/about/</guid>
       <description>welcome outlander I am Szilárd, the hungarian version of Constantin.
-I am a Software Developer from Kolozsvár from the hearth of Transylvania.
+I am a Software developer from Kolozsvár (Cluj Napoca) from the hearth of Transylvania.
 I don&amp;rsquo;t hunt demons or slay vampires. I am more into working with C/C++, Golang, playing around with Particle Photons or watching the Star Wars saga again.
-Education  2014-2016 Master, Computer Science; Babeş-Bolyai University (Cluj-Napoca)
-Thesis title: The Olympos project family: General IoT solutions for solving home automation problems</description>
+Education  2014-2016 Master, Computer Science; Babeş-Bolyai University (Cluj-Napoca) Thesis title: The Olympos project family: General IoT solutions for solving home automation problems</description>
     </item>
     
   </channel>
